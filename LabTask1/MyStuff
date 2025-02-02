@@ -1,0 +1,6 @@
+User ID: 502
+Primary Group ID: 20
+Groups: staff everyone localaccounts _appserverusr admin _appserveradm _lpadmin _appstore _lpoperator _developer _analyticsusers com.apple.access_ftp com.apple.access_screensharing com.apple.access_ssh com.apple.access_remote_ae
+Shell Path: /bin/zsh
+Home Directory: /Users/joeydegoripart2
+PATH Variable: /Users/joeydegoripart2/.nvm/versions/node/v22.7.0/bin:/Users/joeydegoripart2/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Users/joeydegoripart2/Library/Android/sdk/emulator:/Users/joeydegoripart2/Library/Android/sdk/tools:/Users/joeydegoripart2/Library/Android/sdk/tools/bin:/Users/joeydegoripart2/Library/Android/sdk/platform-tools
